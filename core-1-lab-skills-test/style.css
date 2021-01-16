@@ -1,7 +1,7 @@
 /* https://www.cssfontstack.com/Verdana */
 body{
-  background-color: rgba(0, 0, 0, 0.8);
-  color:rgb(169, 138, 230);
+  background-color: rgba(0, 0, 0, 0.3);
+  color:rgb(230, 104, 104);
   padding: 10px 20px;
 }
 
@@ -64,6 +64,3 @@ pre {
   max-width: 800px;
 }
 
-a {
-  color: blueviolet;
-}
