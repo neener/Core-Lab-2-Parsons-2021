@@ -1,7 +1,7 @@
 /* https://www.cssfontstack.com/Verdana */
 body{
   background-color: rgba(0, 0, 0);
-  color:rgb(193, 183, 215);
+  color:rgb(131, 131, 131);
   padding: 10px 20px;
 }
 
@@ -12,6 +12,7 @@ h1 {
   font-variant: normal; 
   font-weight: 700; 
   line-height: 26.4px; 
+  color: darkgray;
 }
 
 h2 { 
@@ -21,6 +22,7 @@ h2 {
   font-variant: normal; 
   font-weight: 700; 
   line-height: 26.4px; 
+  color:thistle;
 }
 
 h3 { 
@@ -43,7 +45,7 @@ p {
 
 blockquote { 
   font-family: Verdana, Geneva, sans-serif; 
-  font-size: 21px; 
+  font-size: 18px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 400; 
@@ -53,7 +55,7 @@ blockquote {
 
 pre { 
   font-family: Verdana, Geneva, sans-serif; 
-  font-size: 13px; 
+  font-size: 16px; 
   font-style: normal; 
   font-variant: normal; 
   font-weight: 400; 
@@ -67,3 +69,16 @@ pre {
 a {
   color: blueviolet;
 }
+
+code {
+  color:chartreuse;
+}
+
+b {
+  color: violet;
+}
+
+div {
+  padding-bottom: 30px;
+}
+
