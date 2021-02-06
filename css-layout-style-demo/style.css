@@ -48,7 +48,6 @@
 }
 
 
-
 body {
   font-family: 'unispaceregular';
   background: black;
@@ -63,19 +62,19 @@ body {
   border: 1px solid yellow;
 }
 
+.footer {
+  border: 1px solid blue;
+}
+
 h2 {
   color: chartreuse;
 }
 
 h3 {
-  position: absolute;
   margin: 0px;
-  top: 20px;
-  left: 112px;
-}
-
-.footer {
-  border: 1px solid blue;
+  position: absolute;
+  top: 32px;
+  left: 120px;
 }
 
 .headshot {
